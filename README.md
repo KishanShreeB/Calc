@@ -79,9 +79,15 @@ Publish the website in the given URL.
                 width: 400px;
                 background-color:rgb(0, 0, 0);
                 margin: 0 auto; 
-                margin-top: 250px;
+                margin-top: 100px;
                 text-align: center;
                 
+            }
+            h2{
+                text-align: center;
+                padding: -10;
+                color: rgb(0, 0, 0);
+                font-family: Georgia, 'Times New Roman', Times, serif;
             }
 
            
@@ -126,12 +132,14 @@ Publish the website in the given URL.
                 background-color: rgb(32, 110, 255);
             }
             body {
-                background-color: rgb(247, 240, 240);
+                background-color: rgb(155, 194, 225);
             }
         </style>
 
     </head>
 <body>
+    <h2>Kishan Shree B Calculator</h2><br>
+    <h2>Registor No:23012867</h2>
     <div class="calculator-container">
         <h1>CALCULATOR</h1>
         <div id="result">0</div>
@@ -159,11 +167,10 @@ Publish the website in the given URL.
     </body>
 </html>
 
-
 ```
 
 ## OUTPUT:
-![Alt text](<kishan/calcapp/static/Screenshot 2023-12-19 225333.png>)
+![Alt text](<kishan/calcapp/static/Screenshot 2023-12-20 134442.png>)
 
 ## RESULT:
 The program for designing a standard calculator using HTML and CSS is executed successfully.
